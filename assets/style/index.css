@@ -182,7 +182,7 @@ ul li:hover {
     cursor: pointer;
 }
 
-.grid-item:nth-child(1) {
+/* .grid-item:nth-child(1) {
     width: 110px;
     height: 110px;
     border-radius: 50%;
@@ -199,6 +199,20 @@ ul li:hover {
     width: 110px;
     height: 110px;
     background-color: #f09;
+} */
+
+.grid-item:nth-child(1) {
+    width: 110px;
+    height: 110px;
+    border-radius: '';
+    background-color: '';
+}
+
+.grid-item:nth-child(2) {
+    width: 110px;
+    height: 110px;
+    border-radius: '';
+    background-color: '';
 }
 
 .tip {
