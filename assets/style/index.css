@@ -182,33 +182,8 @@ ul li:hover {
     cursor: pointer;
 }
 
-/* .grid-item:nth-child(1) {
-    width: 110px;
-    height: 110px;
-    border-radius: 50%;
-    background-color: #0f9;
-}
-
-.grid-item:nth-child(2) {
-    width: 110px;
-    height: 110px;
-    background-color: #9f0;
-}
-
-.grid-item:nth-child(7) {
-    width: 110px;
-    height: 110px;
-    background-color: #f09;
-} */
 
 .grid-item:nth-child(1) {
-    width: 110px;
-    height: 110px;
-    border-radius: '';
-    background-color: '';
-}
-
-.grid-item:nth-child(2) {
     width: 110px;
     height: 110px;
     border-radius: '';
